@@ -15,7 +15,7 @@
     /* other styling */
     height: 500px;
     width: 100%;
-    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(img/teamphoto1.jpg);
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(img/teamphoto1.JPG);
     background-size: 100%;
 
 }
@@ -27,7 +27,7 @@
 }
 .content {
     background: #eee;
-    height: 1300px;
+    height: 1400px;
     line-height: 24px;
     padding: 20px 35px;
 }
@@ -54,11 +54,6 @@ body {
     width: 50%;
     margin: auto;
     font-size: 20px;
-}
-
-.teamphotos{
-  width: 90%;
-  margin: 0 auto;
 }
 
 .leadership{

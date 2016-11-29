@@ -23,7 +23,7 @@ $(document).ready(function() {
 
     // Question 5
     // IMPLEMENT "HIDE MODAL" WHEN "CLICK ON MODAL OVERLAY" HERE
-    $("#modal-overlay").click(function() {
+    $(".modal-overlay").click(function() {
      $("#modal-container").hide();
      $("#modal-container-overseas").hide();
       $("#modal-container-stargazing").hide()
